@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Johnson et al., "Timing of ESCRT-III protein recruitment and membrane scission during HIV-1 assembly". eLife, 2018. http://dx.doi.org/10.7554/eLife.36221
+
+
 # Microscope-Control
 Microscope software to control galvonometers, EOM, lasers, focus, and flow chamber valves
 
